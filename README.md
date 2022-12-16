@@ -7,13 +7,13 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
-[![wakatime](https://wakatime.com/badge/user/a7f49ac0-396b-43df-bdbd-01099e48c983.svg)](https://wakatime.com/@a7f49ac0-396b-43df-bdbd-01099e48c983)
+![wakatime](https://wakatime.com/badge/user/a7f49ac0-396b-43df-bdbd-01099e48c983.svg)
 
 
 
  <h2> About Me</h2>
 
-<img width="30%" align="right" alt="Github" src="https://i.postimg.cc/90T3xwGg/right7.gif" />
+<img width="25%" align="right" alt="Github" src="https://i.postimg.cc/90T3xwGg/right7.gif" />
 
 My Name is Mostafa and I am a professional web developer with 7 years experience
 I have previously worked with many start-up companies, and I have deep knowledge in website development, content management systems, payment and chatting, building application programming interfaces, and the best user experience.
